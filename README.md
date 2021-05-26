@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Yongfei Liu, fourth-year phd students from ShanghaiTech University. 
+- 🔭 I’m currently working on cross-modal pretraining, weakly-supervised learning, continual learning. 
+- 👯 I’m looking to collaborate on all vision-language related projects.
+
+
 <!--
 **youngfly11/youngfly11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
