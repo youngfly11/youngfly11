@@ -1,5 +1,5 @@
 ### Hi there 👋
-[homepage](https://sites.google.com/view/yongfei-liu), [Google Scholar](https://scholar.google.com/citations?user=XVYKjDkAAAAJ&hl=en), [cv](https://drive.google.com/file/d/1Ac7Mot02A9x0BVq4W-Grp_Dd4OPEGqNi/view)
+[Homepage](https://sites.google.com/view/yongfei-liu), [Google Scholar](https://scholar.google.com/citations?user=XVYKjDkAAAAJ&hl=en), [CV](https://drive.google.com/file/d/1Ac7Mot02A9x0BVq4W-Grp_Dd4OPEGqNi/view)
 
 I am Yongfei Liu, fourth-year phd students from ShanghaiTech University.
 - 🔭 I’m currently working on cross-modal pretraining, weakly-supervised learning, continual learning. 
