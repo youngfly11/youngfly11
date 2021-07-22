@@ -4,6 +4,7 @@
 I am Yongfei Liu, fourth-year phd student from ShanghaiTech University.
 - 🔭 I’m currently working on cross-modal pretraining, weakly-supervised learning, continual learning. 
 - 👯 I’m looking to collaborate on all vision-language related projects.
+- 📫 How to reach me: liuyf3@shanghaitech.edu.cn
 
 
 <!--
